@@ -7,6 +7,6 @@ interface IconProps extends React.SVGProps<SVGSVGElement> {
 
 export default function Logo({ iconOnly = false, ...props }: IconProps) {
   return (
-    <Image src={logoImg} alt="Isomorphic" />
+    <Image src={logoImg} alt="CSPR" />
   );
 }
