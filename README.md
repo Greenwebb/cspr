@@ -1,4 +1,4 @@
-# Isomorphic
+# CSPR
 
 ## Getting Started
 
