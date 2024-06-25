@@ -967,7 +967,11 @@ packages:
     resolution: {integrity: sha512-yQ8oGX2GVsEYMWGxcovu1uGWPCxV5BFfeeYxqPmuAzUyLT9qmaMXSAhXpb0WrspIeqYzdJpkh2vHModJPgRIaw==}
 
   '@radix-ui/react-arrow@1.0.3':
+<<<<<<< HEAD
     resolution: {integrity: sha512-wSP+pHsB/jQRaL6voubsQ/ZlrGBHHrOjmBnr19hxYgtS0WvAFwZhK2WP/YY5yF9uKECCEEDGxuLxq1NBK51wFA==}
+=======
+    resolution: {integrity: sha512-wSP+pHsB/jQRaL6voubsQ/ZlrgbHHrOjmBnr19hxYgtS0WvAFwZhK2WP/YY5yF9uKECCEEDGxuLxq1NBK51wFA==}
+>>>>>>> 643431a68cc23c269dbff1f6a244a06fafad94ba
     peerDependencies:
       '@types/react': '*'
       '@types/react-dom': '*'
@@ -2203,7 +2207,11 @@ packages:
     engines: {node: '>=12'}
 
   d3-ease@3.0.1:
+<<<<<<< HEAD
     resolution: {integrity: sha512-wR/XK3D3XcLIZwpbvQwQ5fK+8Ykds1ip7A2Txe0yxncXSdq1L9skcG7blcedkOX+ZcgxGAmLX1FrRGbADwzi0w==}
+=======
+    resolution: {integrity: sha512-wR/XK3D3XcLIZwpbvQwQ5fK+8Ykds1ip7A2Txe0yxncXSdq1L9skcG7blcedkOX+ZcgxGAmLX1FrrgbADwzi0w==}
+>>>>>>> 643431a68cc23c269dbff1f6a244a06fafad94ba
     engines: {node: '>=12'}
 
   d3-format@3.1.0:
