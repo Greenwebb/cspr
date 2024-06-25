@@ -130,10 +130,6 @@
   "engines": {
     "node": ">=20.11.1"
   },
-<<<<<<< HEAD
-
-=======
->>>>>>> 643431a68cc23c269dbff1f6a244a06fafad94ba
   "readme": "ERROR: No README data found!",
   "_id": "isomorphic-furyroad@0.0.1"
 }

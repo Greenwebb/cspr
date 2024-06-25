@@ -50,9 +50,6 @@ next-env.d.ts
 .vercel
 .vscode
 .vercel
-<<<<<<< HEAD
 
 #package.json files
 .package-lock.json
-=======
->>>>>>> 643431a68cc23c269dbff1f6a244a06fafad94ba
